@@ -81,13 +81,13 @@ NOTE: Most standardized studies ussualy use N~= 100. (higher = better)
 
 ### Data for individual testing methods
 #### Trail making test (TMT)
-data - (https://ftp.gwdg.de/pub/misc/MPI-Leipzig_Mind-Brain-Body-LEMON/Behavioural_Data_MPILMBB_LEMON/Cognitive_Test_Battery_LEMON/TMT/)
+data - https://ftp.gwdg.de/pub/misc/MPI-Leipzig_Mind-Brain-Body-LEMON/Behavioural_Data_MPILMBB_LEMON/Cognitive_Test_Battery_LEMON/TMT/
 
 #### Stroop test
-test - (https://ryanwingate.com/projects/hypothesis-testing-2/stroop/)
+test - https://ryanwingate.com/projects/hypothesis-testing-2/stroop/
 
 #### Paced auditory serial addition (PASAT)
-manual - (http://www.pasat.us/PDF/PASAT_Manual.pdf)
+manual - http://www.pasat.us/PDF/PASAT_Manual.pdf
 
 #### Tower of london test
 - no data 
@@ -99,4 +99,5 @@ manual - (http://www.pasat.us/PDF/PASAT_Manual.pdf)
 
 # Resources
 https://pebl.sourceforge.net/index.html#about 
+
 https://www.nature.com/articles/sdata2018308
