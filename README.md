@@ -60,22 +60,14 @@ Subject is presented binary set of images. Subject is tasked with pressing a but
 
 ## Selected test for self administration and evaluation
 Selection of following test consider digital implementation of testing method, as well as their evaluation.
-NOTE: While requiring quite large amount of subjects, calibration of following methods is feasible.
+Each method could be easily self administered with app and evaluated immidietly after finishing the test. 
+Selected test have broad coverage of tested areas, with exception of emotional and social executive functions.
 
-### Trail making test (TMT)
-data - (https://ftp.gwdg.de/pub/misc/MPI-Leipzig_Mind-Brain-Body-LEMON/Behavioural_Data_MPILMBB_LEMON/Cognitive_Test_Battery_LEMON/TMT/)
-
-### Stroop test
-test - (https://ryanwingate.com/projects/hypothesis-testing-2/stroop/)
-
-### Paced auditory serial addition (PASAT)
-manual - (http://www.pasat.us/PDF/PASAT_Manual.pdf)
-
-### Tower of london test
-- no data 
-
-### Wisconsin card sorting test
-- no data
+### Evaluation
+Problem with most selected methods is the lact of standardized data that could be used for evaluation. 
+This problem could be circumvented by doing custom research that would yield standardized dataset for specific implementation of each test.
+Another options is to leave the evaluation to educated individual, which would result in the inability to self administer said test battery.
+NOTE: Most standardized studies ussualy use N~= 100. (higher = better)
 
 ### Coverage
 
@@ -87,9 +79,23 @@ manual - (http://www.pasat.us/PDF/PASAT_Manual.pdf)
 |inhibitory control |       |x              |       |                   |                           |
 |working memory     |       |               |x      |x                  |                           |
 
-# Possible approach
-Most testing method would be viable if study of large enoung subjects was made to calibrate said test. 
-Most test are usualy standardized with N~= 100. (higher = better)
+### Data for individual testing methods
+#### Trail making test (TMT)
+data - (https://ftp.gwdg.de/pub/misc/MPI-Leipzig_Mind-Brain-Body-LEMON/Behavioural_Data_MPILMBB_LEMON/Cognitive_Test_Battery_LEMON/TMT/)
+
+#### Stroop test
+test - (https://ryanwingate.com/projects/hypothesis-testing-2/stroop/)
+
+#### Paced auditory serial addition (PASAT)
+manual - (http://www.pasat.us/PDF/PASAT_Manual.pdf)
+
+#### Tower of london test
+- no data 
+
+#### Wisconsin card sorting test
+- no data
+
+---
 
 # Resources
 https://pebl.sourceforge.net/index.html#about 
