@@ -1,9 +1,16 @@
 # Initial research
-Initial research revealed several methods for testing persons executive functions. Methods itself are relatively easy to come by, main issue lies within their execution or evaluation. 
+## Executive functions
+- planning
+- fluid inteligence
+- self regulation
+- mental flexibility
+- inhibitory control
+- working memory
 
-Problem with execution of tests is the frequently required presence of examiner or use of proprietary testing materials, which are not favorable for scope of this project. 
-
-Another concern is test evaluation. While paid tests come with included evaluation data, freely accesible testing methods often lack such features. To counter this lack of data, custom study would be needed. Need to consult with prof. how to approach.
+## Initial research on existing testing methods
+The is huge amount of several methods for testing persons executive functions. Methods itself are relatively easy to come by, main issue lies within their standardization, execution or evaluation. 
+Some tests require presence of examiner or require proprietary testing materials. Another concenrn is evaluation of gathered test data. While paid tests ussualy come with standardized data used for comparison, freely accesible methods often lack such data. 
+As result, most methods would require custom study to calibrate said test (test battery).
 
 ## List of found methods
 ### mini-SEA
@@ -42,7 +49,6 @@ Subject is presented with complex line drawing. Then is tasked to reproduce it b
 
 Subject is presented with two boards. One represents desired configuration and the other is in different configuration. Subject is tasked to reconfigure seconds board into first one in fewest steps possible.
 
-
 ### Trail making test (TMT)
 - good fit
 - publicaly avialable data
@@ -65,8 +71,8 @@ Subject is presented binary set of images. Subject is tasked with pressing a but
 ---
 
 ## Favorable methods for self testing and evaluation
-Selection of following test consider digital applicaiton of thesting method, as well as their evaluation.
-NOTE: While requiring quite large amount of subject calibration of following methods could be possible.
+Selection of following test consider digital integration of testing method, as well as their evaluation.
+NOTE: While requiring quite large amount of subjects, calibration of following methods could be feasible.
 
 ### Trail making test (TMT) - (best fit)
 data - (https://ftp.gwdg.de/pub/misc/MPI-Leipzig_Mind-Brain-Body-LEMON/Behavioural_Data_MPILMBB_LEMON/Cognitive_Test_Battery_LEMON/TMT/)
@@ -78,6 +84,21 @@ While easy to implement, no public data for evaluation were found.
 ### Paced auditory serial addition (PASAT)
 manual - (http://www.pasat.us/PDF/PASAT_Manual.pdf)
 
+### Tower of london test
+- no data 
+
+### Wisconsin card sorting test
+- no data
+
+### Coverage
+
+|                   | TMT   | Stroop test   | PASAT | Tower of london   | Wisconsin card sorting    |
+| ---               | ---   | ---           | ---   | ---               | ---                       |
+|planning           |       |               |       |x                  |                           | 
+|fluid inteligence  |x      |               |       |x                  |x                          |
+|mental flexibility |x      |               |       |                   |x                          |
+|inhibitory control |       |x              |       |                   |                           |
+|working memory     |       |               |x      |x                  |                           |
 
 # Possible approach
 Most testing method would be viable if study of large enoung subjects was made to calibrate said test. 
