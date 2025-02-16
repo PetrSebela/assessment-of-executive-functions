@@ -57,8 +57,9 @@ Subject is sequentialy presented a series of numbers. Subject is tasked with sum
 Subject is presented binary set of images. Subject is tasked with pressing a button when certain image appears, otherwise do nothing.
 
 ---
+# App proposal
 
-## Selected test for self administration and evaluation
+## Selected testing methods
 Selection of following test consider digital implementation of testing method, as well as their evaluation.
 Each method could be easily self administered with app and evaluated immidietly after finishing the test. 
 Selected test have broad coverage of tested areas, with exception of emotional and social executive functions.
