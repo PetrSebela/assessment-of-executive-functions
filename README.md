@@ -36,6 +36,7 @@ Subject is presented with congruent and incongruent stimuli. Incongruent stimuli
 
 ### Complex figure test
 - difficult evaluation
+
 Subject is presented with complex line drawing. Then is tasked to reproduce it by hand with image still visible. Immedietly after is tasked to reproduce image from memory. Same reprofuction is repeated after longer delay (~30min).
 
 ### Tower of london test
@@ -46,6 +47,7 @@ Subject is presnted with board of numbers / letters. Subject is tasked with conn
 
 ### Paced auditory serial addition (PASAT)
 - requires audio output device
+
 Subject is sequentialy presented a series of numbers. Subject is tasked with sum of two most recent numbers. 
 
 ### Continuous Atention Test (aka T.O.V.A)
