@@ -1,11 +1,11 @@
 # Initial research
 ## Executive functions
-- planning
-- fluid inteligence
-- self regulation
-- mental flexibility
-- inhibitory control
-- working memory
+- planning - ability to follow individual steps to achive certail goal 
+- mental flexibility - ability to adapt to ever changing enviroment
+- inhibitory control - ability to control impulsive behavior
+- working memory - ability to hold (short or longterm?) and manipulate information 
+- emotional control - ability to regulate ones own emotions
+- attention control - ability to hold focus on certain task while filtering unimportant information
 
 ## Initial research on existing testing methods
 There is a huge amount of methods for testing different executive functions, each with its own benefits and dissadvantages. 
@@ -74,10 +74,11 @@ NOTE: Most standardized studies ussualy use N~= 100. (higher = better)
 |                   | TMT   | Stroop test   | PASAT | Tower of london   | Wisconsin card sorting    |
 | ---               | ---   | ---           | ---   | ---               | ---                       |
 |planning           |       |               |       |x                  |                           | 
-|fluid inteligence  |x      |               |       |x                  |x                          |
 |mental flexibility |x      |               |       |                   |x                          |
 |inhibitory control |       |x              |       |                   |                           |
 |working memory     |       |               |x      |x                  |                           |
+|emotional control  |       |               |       |                   |                           |
+|attention control  |       |x              |x      |                   |                           |
 
 ### Data for individual testing methods
 #### Trail making test (TMT)
